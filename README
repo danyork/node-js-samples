@@ -5,5 +5,12 @@ between machines this way.
 
 I am leaving it public because perhaps one of you out there may find something here interesting.
 
+Ultimately I am looking to build some Node.js apps for voice, SMS and Twitter using Tropo.com 
+and the Tropo WebAPI library for Node.js:
+
+https://github.com/tropo/tropo-webapi-node
+
+Enjoy,
+
 Dan York
 December 2010
