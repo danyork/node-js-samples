@@ -1,4 +1,4 @@
-re('tropo-webapi');
+require('tropo-webapi');
 var sys = require('sys');
 
 var tropo = new TropoWebAPI();
